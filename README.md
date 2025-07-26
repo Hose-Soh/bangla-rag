@@ -59,8 +59,8 @@ This repository contains code for a Retrieval-Augmented Generation (RAG) chatbot
 1. Clone the repository:
 
 ```bash
-git clone 
-cd 
+git clone https://github.com/Hose-Soh/bangla-rag.git
+cd bangla-rag
 ```
 
 2. Create and activate a virtual environment :
