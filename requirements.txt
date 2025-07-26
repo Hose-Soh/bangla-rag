@@ -1,0 +1,12 @@
+langchain_community
+bangla-pdf-ocr
+langchain 
+langchain-pinecone
+pinecone
+langchain-google-genai
+streamlit
+streamlit_chat
+tiktoken
+unstructured
+python-dotenv
+flask
